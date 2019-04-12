@@ -8,3 +8,4 @@
 1. [CountUp](https://inorganik.github.io/countUp.js/): 数字滚动插件
 2. [MeScroll.js](http://www.mescroll.com/): 移动端上拉加载下拉刷新插件
 ### vue
+1. [vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll): 列表横竖向/无限滚动的组件
