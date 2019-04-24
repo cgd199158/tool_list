@@ -12,3 +12,4 @@
 5. [FastClick](https://github.com/ftlabs/fastclick): 解决移动端浏览器在派发点击事件的时候，通常会出现300ms左右的延迟。
 ### vue
 1. [vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll): 列表横竖向/无限滚动的组件
+2. [vue-countup-v2](): vue封装的CountUp.js组件
